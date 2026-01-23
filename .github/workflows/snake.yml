@@ -1,28 +1,39 @@
-name: GitHub Snake
+name: GitHub Snake Game
+
+permissions:
+  contents: write
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+    timeout-minutes: 10
 
-      - name: Generate snake
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
           github_user_name: rishabhojha22
           outputs: |
-            dist/github-snake-dark.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
