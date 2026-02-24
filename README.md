@@ -1,14 +1,25 @@
 # 🏄‍♂️ Cryptonaut
 
-**🎓 Computer Science Student | 🛡️ Cyber Security Analyst | 💻 Full Stack Developer | 🤖 AI/ML Enthusiast**
+**🎓 Computer Science Student | 💻 Full Stack Developer | 🛡️ Cyber Security Analyst | 🤖 AI **
 
-CS student focused on Cybersecurity, Full-Stack Development, and AI/ML.  
-I build secure, scalable systems and intelligent solutions with real-world impact.
+---
+
+## 🚀 About Me
+
+I design and build scalable backend systems with a focus on clean architecture, performance, and maintainability.
+
+- ⚙️ Backend engineer specializing in **Javascript + Node.js**
+- 🧠 400+ DSA problems solved across platforms in JAVA
+- 🔐 Focused on secure & optimized systems
+- 🏗️ Interested in Cyber Security and AI
+- 📈 Constantly improving through real-world projects
+
+---
 
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rishabhojha22/" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
   <!-- LeetCode -->
@@ -61,6 +72,17 @@ I build secure, scalable systems and intelligent solutions with real-world impac
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhojha22&show_icons=true&theme=gruvbox)
+
+---
+## 🏆 Coding Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://leetcard.jacoblin.cool/rishabhojha22?theme=dark&font=Ubuntu&ext=contest" />
+
+<img width="49%" src="https://gfg-stats-card.vercel.app/rishabhojha146?theme=dark" />
+
+</p>
 
 ---
 
