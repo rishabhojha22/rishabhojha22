@@ -92,15 +92,17 @@ I design and build scalable backend systems with a focus on clean architecture, 
 
 
 ---
+
 ## 🏆 Coding Dashboard
 
-<p align="center">
+<p align="left">
 
 <img width="49%" src="https://leetcard.jacoblin.cool/rishabhojha22?theme=dark&font=Ubuntu&ext=contest" />
 
 <img width="49%" src="https://gfg-stats-card.vercel.app/rishabhojha146?theme=dark" />
 
 </p>
+
 ---
 
 ## 🐍 GitHub Contribution Snake
