@@ -1,21 +1,6 @@
 # 🏄‍♂️ Cryptonaut
 
-**🎓 Computer Science Student | 💻 Full Stack Developer | 🛡️ Cyber Security Analyst | 🤖 AI **
-
----
-
-## 🚀 About Me
-
-I design and build scalable backend systems with a focus on clean architecture, performance, and maintainability.
-
-- ⚙️ Backend engineer specializing in **Javascript + Node.js**
-- 🧠 400+ DSA problems solved across platforms in JAVA
-- 🔐 Focused on secure & optimized systems
-- 🏗️ Interested in Cyber Security and AI
-- 📈 Constantly improving through real-world projects
-
----
-
+**🎓 Computer Science Student | 💻 Full Stack Development | 🛡️ Cyber Security | 🤖 AI **
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rishabhojha22/" target="_blank"> 
@@ -38,40 +23,25 @@ I design and build scalable backend systems with a focus on clean architecture, 
   </a>
 </p>
 
----
-
-### A passionate developer from India 🇮🇳
-
 <p align="left">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" />
 </p>
 
----
-
-## 🧰 Languages and Tools
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhojha22&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhojha22&show_icons=true&theme=gruvbox)
+I design and build scalable backend systems with a focus on clean architecture, performance, and maintainability.
+
+- ⚙️ Backend engineer specializing in **Javascript + Node.js**
+- 🧠 400+ DSA problems solved across platforms in **JAVA**
+- 🔐 Focused on secure & optimized systems
+- 🏗️ Interested in Cyber Security and AI
+- 📈 Constantly improving through real-world projects
 
 ---
 ## 🏆 Coding Dashboard
@@ -82,6 +52,57 @@ I design and build scalable backend systems with a focus on clean architecture, 
 
 <img width="49%" src="https://gfg-stats-card.vercel.app/rishabhojha146?theme=dark" />
 
+</p>
+
+---
+
+## 🧰 Skills
+
+<h4>PROGRAMMING LANGUAGES</h4>
+<p>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-4B0082?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
+</p><br>
+
+<h4>FRONTEND</h4>
+<p>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+</p><br>
+
+<h4>BACKEND & DATABASES</h4>
+<p>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+</p><br>
+
+<h4>CYBER SECCURITY</h4>
+<p>
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+<a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+<a href="https://www.nmap.org/"><img src="https://img.shields.io/badge/Recon_Tools-4B0082?style=for-the-badge&logo=linuxfoundation&logoColor=white"/></a>
+</p><br>
+
+<h4>DEVOPS</h4>
+<p>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+</p><br>
+
+<h4>UI/UX</h4>
+<p>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 
 ---
