@@ -44,17 +44,6 @@ I design and build scalable backend systems with a focus on clean architecture, 
 - 📈 Constantly improving through real-world projects
 
 ---
-## 🏆 Coding Dashboard
-
-<p align="center">
-
-<img width="49%" src="https://leetcard.jacoblin.cool/rishabhojha22?theme=dark&font=Ubuntu&ext=contest" />
-
-<img width="49%" src="https://gfg-stats-card.vercel.app/rishabhojha146?theme=dark" />
-
-</p>
-
----
 
 ## 🧰 Skills
 
@@ -105,6 +94,17 @@ I design and build scalable backend systems with a focus on clean architecture, 
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 
+
+---
+## 🏆 Coding Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://leetcard.jacoblin.cool/rishabhojha22?theme=dark&font=Ubuntu&ext=contest" />
+
+<img width="49%" src="https://gfg-stats-card.vercel.app/rishabhojha146?theme=dark" />
+
+</p>
 ---
 
 ## 🐍 GitHub Contribution Snake
