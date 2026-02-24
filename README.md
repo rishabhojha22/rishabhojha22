@@ -84,15 +84,11 @@ I design and build scalable backend systems with a focus on clean architecture, 
 
 <h4>DEVOPS</h4>
 <p>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 </p><br>
-
-<h4>UI/UX</h4>
-<p>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/></a>
-</p>
 
 
 ---
