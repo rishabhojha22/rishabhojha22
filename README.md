@@ -38,7 +38,7 @@
 I design and build scalable backend systems with a focus on clean architecture, performance, and maintainability.
 
 - ⚙️ Full Stack MERN engineer specializing in **Javascript + Node.js**
-- 🧠 400+ DSA problems solved across platforms in **JAVA**
+- 🧠 450+ DSA problems solved across platforms in **JAVA**
 - 🔐 Focused on secure & optimized systems
 - 🏗️ Interested in Cyber Security and AI
 - 📈 Constantly improving through real-world projects
